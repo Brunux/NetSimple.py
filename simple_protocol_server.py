@@ -13,7 +13,7 @@ import pdb
 
 SERVER_IP = '' # Vacio para escuchar en todas las interfaces
 SERVER_PORT = 180
-MAGIC_STR = "IFT" 
+MAGIC_STR = "MakeMagic" 
 MAX_STR_SIZE = 1024 # El buffer
 COOKIE1 = random.randint(1, 100)
 COOKIE2 = random.randint(1, 100)
